@@ -29,7 +29,7 @@ const Dashboard: NextPageWithLayout = () => {
 							<div className="card-body">
 								<h2 className="card-title">Members</h2>
 								<p>
-									Connect team members from anywhere in the world on any device. ZeroTier
+									Connect team members from anywhere in the world on any device. ZTNET
 									creates secure networks between on-premise, cloud, desktop, and mobile
 									devices.
 								</p>
@@ -39,7 +39,7 @@ const Dashboard: NextPageWithLayout = () => {
 							<div className="card-body">
 								<h2 className="card-title">Everywhere</h2>
 								<p>
-									Connect Everywhere, Securely: ZeroTier, Your Global Network Solution
+									Connect Everywhere, Securely: ZTNET, Your Global Network Solution
 								</p>
 							</div>
 						</div>
